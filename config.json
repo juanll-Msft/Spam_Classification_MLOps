@@ -1,6 +1,6 @@
 {
-    "subscription_id": "<Azure-Subscription-ID>",
-    "resource_group": "<Azure-Resource-Group-Name>",
-    "workspace_name": "<AzureML-Workspace-Name>",
-    "location": "<Workspace-Location>"
+    "subscription_id": "411dca3a-678e-4a7d-b4db-d8465fb0a062",
+    "resource_group": "AdventureWorksAnalytics",
+    "workspace_name":"juanll-ml-workspace",
+    "location": "East US 2"
 }
